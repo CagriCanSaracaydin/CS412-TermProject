@@ -8,7 +8,7 @@ This is the repository of the CS412: Machine Learning Course Term project. This 
 - Classification by predicting the account types of the provided instagram accouns(10 categories).
 - Regression for the predicting the like counts of the provided posts.
 
-### Key Files and Directories
+### Key File Details
 
 1. **`main`**
      1. **Data Loading**: Loads provided labeled dataset and additionally my annotated 150 data.
