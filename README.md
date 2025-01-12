@@ -1,4 +1,4 @@
-# CS412-TermProject
+# CS412-TermProject - Çağrı Can Saraçaydın - 30984
 # Instagram Influencer Analysis Project: Documentation
 
 ## 1. Overview of the Repository
@@ -163,3 +163,8 @@ This section provides more details on for each step, along with the findings.
    - R² of 0.9227 means the model explains 92% of the variance in log10 like counts.  
    - Primary factors are numeric in nature (comments_count, follower_count, is_verified, etc.), reflecting core engagement details.
 
+## 5. Team Members
+
+I worked alone on this term project, implemented everything by myself.
+
+Çağrı Can Saraçaydın - 30984
