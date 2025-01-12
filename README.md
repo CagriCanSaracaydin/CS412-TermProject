@@ -39,7 +39,7 @@ This is the repository of the CS412: Machine Learning Course Term project. This 
 ### 2.1 Data Collection and Annotation
 - **Step 1**: I started with the provided labeled dataset (`train-classification.csv`) mapping user IDs to specific influencer categories.
 - **Step 2**: Then i imported personal annotations from the first step of the project(Google Forms).
-- **Step 3**: I merged the original labeled data with these annotated labels. This ensured we had a larger dataset, avoiding conflicts by giving precedence to our new annotations when overlaps occurred.
+- **Step 3**: I merged the original labeled data with these annotated data. This ensured we had a larger dataset, avoiding conflicts by giving precedence to our new annotations when overlaps occurred.
 
 ### 2.2 Data Preprocessing and Feature Extraction
 - **Profile Features**: Follower/following/post counts, boolean flags (`is_verified`, `is_business_account`, `is_private`), presence of website/emails, and biography length.
